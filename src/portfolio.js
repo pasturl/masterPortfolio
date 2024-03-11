@@ -21,9 +21,9 @@ const seo = {
 const greeting = {
   title: "Lucas Pastur Romay",
   logo_name: "LucasPastur",
-  nickname: "pasturl",
+  nickname: "Data Scientist specializing in Generative AI",
   subTitle:
-    "Proactive and dedicated Data Scientist with 6+ years of experience in managing multidisciplinary teams, delivering cross-industry, high-impact solutions using advanced machine learning techniques.",
+    "Leveraging 6+ years of experience, I lead and collaborate with diverse teams to deliver high-impact solutions across industries, with a current focus on large language models and image generation algorithms.",
   resumeLink:
     "https://drive.google.com/file/d/140q4pHOix3k5puJrCh-DAJ6Ipda07a7b/view?usp=sharing",
   portfolio_repository: "https://github.com/pasturl/pasturl.github.io ",
@@ -322,20 +322,20 @@ const certifications = {
     {
       title: "Big Data Specialization",
       subtitle: "- University of California San Diego (Coursera)",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "UC_san_diego.png",
       certificate_link:
         "https://coursera.org/share/20804ea95daab85478a8efdc3c31ef62",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+      alt_name: "Big Data",
+      color_code: "#FFFFFF",
     },
     {
       title: "Financial Engineering and Risk Management",
       subtitle: "- Columbia University (Coursera)",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "columbia_university.jpg",
       certificate_link:
         "https://coursera.org/share/ef4160a7449abfffc6d7a4a2ac13caec",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+      alt_name: "Financial Engineering",
+      color_code: "#005494",
     },
   ],
 };
